@@ -304,13 +304,13 @@ plt.legend()
 plt.show()
 ```
 
-Dari visualisasi di atas:
+## Dari visualisasi di atas:
 
 Model menunjukkan kurva error yang cukup smooth.
 Model konvergen pada sekitar 100 epochs dengan nilai error akhir 0.19 pada data training dan 0.20 pada data validasi
 
 
-Kesimpulan Evaluasi
+# Kesimpulan Evaluasi
 Content-Based Filtering:
 Precision sistem adalah 60%, yang menunjukkan bahwa 60% rekomendasi sesuai dengan preferensi pengguna.
 Collaborative Filtering:
