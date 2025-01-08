@@ -31,7 +31,8 @@ Proyek ini bertujuan untuk membangun sistem rekomendasi berbasis algoritma machi
 
 ## Data Understanding  
 
-Dataset yang digunakan adalah **Movie Recommendation Data** dari Kaggle. Dataset ini terdiri dari beberapa variabel:  
+Dataset yang digunakan adalah **Movie Recommendation Data** dari Kaggle. Dataset ini berisi berbagai informasi terkait film, rating, dan kata kunci yang relevan, yang digunakan untuk membangun sistem rekomendasi. Link dataset dapat dilihat dari tautan berikut: [movie-recommendation-data](https://www.kaggle.com/rohan4050/movie-recommendation-data).
+Dataset ini terdiri dari beberapa variabel:  
 
 - **links**: Daftar tautan film yang berisi `movieId`, `imdbId`, dan `tmdbId`.  
 - **movies**: Informasi tentang film seperti `movieId`, `title`, dan `genres`.  
